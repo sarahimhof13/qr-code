@@ -1,0 +1,42 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+h3 {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+}
+
+p {
+  font-size: 15px;
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  padding-bottom: 15px;
+}
+
+.card {
+  margin: 150px auto auto auto;
+  text-align: center;
+  border-radius: 20px;
+  width: 300px;
+  background-color: white;
+  filter: drop-shadow(-10px 10px 20px gray);
+}
+
+@media screen and (max-width: 375px) {
+  .card {
+    margin: 100px auto auto auto;
+  }
+}
+
+.qr-code {
+  width: 260px;
+  border-radius: 10px;
+  margin: 15px 15px 0px 15px;
+}
+
+.card-text {
+  padding: 0 30px 10px 30px;
+}
