@@ -19,5 +19,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Sarah Imhof](https://www.your-site.com)
 - Frontend Mentor - [@sarahimhof13](https://www.frontendmentor.io/profile/sarahimhof13)
